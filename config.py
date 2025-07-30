@@ -5,7 +5,7 @@ import logging
 from logging.handlers import RotatingFileHandler
 
 # Recommended
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "8269963588:AAHk0d-_QbrWDE0tYIwTwnLfPF0jkTKc5QY")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "8269963-_QbrWDE0tYIwTwnLfPF0jkTKc5QY")
 APP_ID = int(os.environ.get("APP_ID", "29037902"))
 API_HASH = os.environ.get("API_HASH", "8f963da8e2040053cf0ad8932244890e")
 
@@ -14,7 +14,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "6692613520"))
 PORT = os.environ.get("PORT", "8080")
 
 # Database
-DB_URI = os.environ.get("DB_URI", "mongodb+srv://Kdramast:Kdramast@cluster0.uhf52.mongodb.net/?retryWrites=true&w=majority")
+DB_URI = os.environ.get("DB_URI", "mongodb+srv@cluster0.uhf52.mongodb.net/?retryWrites=true&w=majority")
 DB_NAME = os.environ.get("DB_NAME", "Cluster0")
 
 #Auto approve 
