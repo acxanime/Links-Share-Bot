@@ -411,7 +411,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
         
         await query.edit_message_media(
             InputMediaPhoto(
-                "https://envs.sh/Wdj.jpg",
+                "https://graph.org/file/ab895207006b75e02b3a8-db17654a8b642e8a12.jpg",
                 ABOUT_TXT
             ),
             reply_markup=InlineKeyboardMarkup([
