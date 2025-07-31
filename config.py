@@ -31,11 +31,11 @@ START_PIC_FILE_ID = "https://graph.org/file/ab895207006b75e02b3a8-db17654a8b642e
 START_PIC = "https://graph.org/file/8b909fb8e907b94064df8-7c2245564d702016f0.jpg"
 # Messages
 START_MSG = os.environ.get("START_MESSAGE", "<b>ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ ᴀᴅᴠᴀɴᴄᴇᴅ ʟɪɴᴋs sʜᴀʀɪɴɢ ʙᴏᴛ. ᴡɪᴛʜ ᴛʜɪs ʙᴏᴛ, ʏᴏᴜ ᴄᴀɴ sʜᴀʀᴇ ʟɪɴᴋs ᴀɴᴅ ᴋᴇᴇᴘ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟs sᴀғᴇ ғʀᴏᴍ ᴄᴏᴘʏʀɪɢʜᴛ ɪssᴜᴇs.</b>")
-HELP = os.environ.get("HELP_MESSAGE", "<b><blockquote expandable>» Creator: <a href=https://t.me/sitaratoons_support>Owner</a>")
-ABOUT = os.environ.get("ABOUT_MESSAGE", "<b><blockquote expandable>This bot is developed by Yato (@sitaratoons_support) to securely share Telegram channel links with temporary invite links, protecting your channels from copyright issues.</b>")
+HELP = os.environ.get("HELP_MESSAGE", "<b><blockquote>» Creator: <a href=https://t.me/sitaratoons_support>Owner</a></blockquote>")
+ABOUT = os.environ.get("ABOUT_MESSAGE", "<b><blockquote>This bot is developed by Yato (@sitaratoons_support) to securely share Telegram channel links with temporary invite links, protecting your channels from copyright issues.</blockquote></b>")
 
 ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/sitaratoons_support'>Admin</a>
-<blockquote expandable>
+<blockquote>
 ›› ◈ᴏᴡɴᴇʀ: <a href='https://t.me/sitaratoons_support'>Admin</a>
 ›› ◈ʟᴀɴɢᴜᴀɢᴇ: <a href='https://docs.python.org/3/'>Pʏᴛʜᴏɴ 3</a>
 ›› ◈ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ ᴠ2</a>
@@ -43,7 +43,7 @@ ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/sitarat
 ›› ◈ᴅᴇᴠᴇʟᴏᴘᴇʀ: @sitaratoons_support</b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
 
 CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/+o2_AIqUz0adjY2M1'>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>
-<blockquote expandable>
+<blockquote>
 ›› ◈ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ 01: <a href='https://t.me/+o2_AIqUz0adjY2M1'>𝐀𝐧𝐢𝐑𝐞𝐚𝐥 - ᴀʟʟ ᴀɴɪᴍᴇs ɪɴ ʜɪɴᴅɪ ᴅᴜʙ</a>
 ›› ◈ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ 02: <a href='https://t.me/New_Anime_Hindi_dub_ST'>Sitaratoons - ᴀʟʟ ᴀɴɪᴍᴇs ɪɴ ʜɪɴᴅɪ ᴅᴜʙ</a>
 ›› ◈ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 01: <a href='https://t.me/AniReal_Chat_Group_Asia'> 𝐀𝐧𝐢𝐑𝐞𝐚𝐥 - Cʜᴀᴛ Gʀᴏᴜᴘ Asɪᴀ</a>
