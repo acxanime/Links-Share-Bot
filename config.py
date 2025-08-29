@@ -42,9 +42,9 @@ ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/sitarat
 ›› ◈ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a>
 ›› ◈ᴅᴇᴠᴇʟᴏᴘᴇʀ: @sitaratoons_support</b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
 
-CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/+o2_AIqUz0adjY2M1'>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>
+CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/Hindi_Dub_Anime_Zone'>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>
 <blockquote>
-›› ◈ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ 01: <a href='https://t.me/+o2_AIqUz0adjY2M1'>𝐀𝐧𝐢𝐑𝐞𝐚𝐥 - ᴀʟʟ ᴀɴɪᴍᴇs ɪɴ ʜɪɴᴅɪ ᴅᴜʙ</a>
+›› ◈ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ 01: <a href='https://t.me/Hindi_Dub_Anime_Zone'>𝐀𝐧𝐢𝐑𝐞𝐚𝐥 - ᴀʟʟ ᴀɴɪᴍᴇs ɪɴ ʜɪɴᴅɪ ᴅᴜʙ</a>
 ›› ◈ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ 02: <a href='https://t.me/New_Anime_Hindi_dub_ST'>Sitaratoons - ᴀʟʟ ᴀɴɪᴍᴇs ɪɴ ʜɪɴᴅɪ ᴅᴜʙ</a>
 ›› ◈ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 01: <a href='https://t.me/AniReal_Chat_Group_Asia'> 𝐀𝐧𝐢𝐑𝐞𝐚𝐥 - Cʜᴀᴛ Gʀᴏᴜᴘ Asɪᴀ</a>
 ›› ◈ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 02: <a href='https://t.me/Anime_Chats_St'>Sitaratoons- Cʜᴀᴛ Gʀᴏᴜᴘ Asɪᴀ</a>
